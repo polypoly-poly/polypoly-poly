@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 wow another cs student! yippee
+
+ask me about my git skills that I learned in 3 minutes
+- some would call me a pro
+- some would not answer the forced questionnaire 
